@@ -1,0 +1,2 @@
+def infinity():
+  return infinity()
